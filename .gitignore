@@ -1,0 +1,23 @@
+# Dependencias
+node_modules/
+
+# Logs
+*.log
+
+# Entornos
+.env
+.env.local
+
+# Editores / IDE
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build
+dist/
+build/
+.cache/
