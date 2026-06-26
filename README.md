@@ -23,3 +23,7 @@ Más [herramientas gratuitas](https://configuroweb.com/tag/gratis) en **[Configu
 ---
 
 &copy; 2026 ConfiguroWeb.
+
+## Colección de Herramientas
+
+[30 Aplicaciones Web Gratis Online Sin Registro - ConfiguroWeb](https://configuroweb.com/30-aplicaciones-web-gratis-online-sin-registro-configuroweb)
